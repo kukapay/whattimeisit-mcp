@@ -1,7 +1,7 @@
 [project]
 name = "whattimeisit-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "A lightweight mcp server that tells you exactly what time is it based on your IP."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
