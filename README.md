@@ -1,5 +1,6 @@
 # WhatTimeIsIt MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@kukapay/whattimeisit-mcp)](https://smithery.ai/server/@kukapay/whattimeisit-mcp)
 A lightweight mcp server that tells you exactly what time is it, powered by [World Time](http://worldtimeapi.org/).
 
 ![GitHub](https://img.shields.io/github/license/kukapay/whattimeisit-mcp) 
@@ -7,6 +8,15 @@ A lightweight mcp server that tells you exactly what time is it, powered by [Wor
 
 ## Installation
 
+### Installing via Smithery
+
+To install WhatTimeIsIt for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/whattimeisit-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/whattimeisit-mcp --client claude
+```
+
+### Manual Installation
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/kukapay/whattimeisit-mcp.git
